@@ -1,0 +1,13 @@
+day 3 notes
+
+JavaScript Types:
+    number,
+    string,
+    boolean,
+    object,
+    array
+
+Number - integers (whole numbers like 0, 42, 8675309) and floats Links to an external site. (a number with a decimal point such as3.14159, 6.626068, 1.21)
+Boolean - true or false
+Arrays - a sequence of values ([1, 2, 3, 4], ["milk", "butter", "eggs"])
+Objects - a sequence of labeled values ({ "name": "Galahad", "quest": "Seek the Grail", "favorite_color": "Blue"})
